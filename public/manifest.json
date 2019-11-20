@@ -1,0 +1,15 @@
+{
+ "short_name": "amm000",
+ "name": "amm000",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#ff1500",
+ "theme_color": "#2d2dff",
+ "icons": [
+   {
+     "src": "img/firebase.png",
+     "sizes": "1024x1024",
+     "type": "image/png"
+   }
+ ]
+}
